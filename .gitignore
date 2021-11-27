@@ -1,0 +1,4 @@
+# to ignore node_modules
+node_modules
+# to ignore .vscode 
+.vscode
